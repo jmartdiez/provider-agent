@@ -1,4 +1,4 @@
-# Agente proveedor — negociación multi-agente
+# Agente proveedor — negociación multi-agente 
 
 Implementación del agente proveedor a partir del ejemplo de referencia
 (`comunicacion.ipynb`): mismo contrato de comunicación (5 herramientas),
